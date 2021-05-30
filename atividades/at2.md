@@ -21,7 +21,8 @@ Segue o automato:
 ![image](https://drive.google.com/uc?export=view&id=1wn2F2YDM6zE2CvLWen_wxIi6q7wYf2ai)
 
 
-### Questão 03:
+### Questão 03: 
+Acredito que seja melhor para quando a palavra for muito grande, já que o número de casos do switch vai ser menor.
 
 ~~~
 estado := 1;
@@ -45,5 +46,7 @@ While  estado = 1,2,3 ou 4 do
 	4 : avance estrada;
 	    estado := 5;
 	* : avance entrada;
+ end case;
+end while;
 if estado = 5 then aceitacao else erro;
 ~~~
