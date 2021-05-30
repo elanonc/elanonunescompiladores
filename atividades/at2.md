@@ -22,8 +22,8 @@ Segue o automato:
 
 
 ### Questão 03:
-ˋˋˋ
-estado := 1;
+
+~~~estado := 1;
 While  estado = 1,2,3 ou 4 do 
   case caractere de entrada of
      /: case estado of
@@ -45,4 +45,4 @@ While  estado = 1,2,3 ou 4 do
 	    estado := 5;
 	* : avance entrada;
 if estado = 5 then aceitacao else erro;
-ˋˋˋ
+~~~
