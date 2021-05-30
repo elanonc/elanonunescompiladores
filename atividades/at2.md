@@ -23,7 +23,8 @@ Segue o automato:
 
 ### Questão 03:
 
-~~~estado := 1;
+~~~
+estado := 1;
 While  estado = 1,2,3 ou 4 do 
   case caractere de entrada of
      /: case estado of
