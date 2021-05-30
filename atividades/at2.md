@@ -9,11 +9,15 @@ Básicamente, a sequência dos naturais várias vezes e finaliza com algum dos n
 
 Usei o JFLAP pra fazer o automato. Vi umas opções de abreviações de sequencias, como a que é utilizada nas Expressões Regulares. 
 Segue o automato que fiz:
+
+
 ![image](https://drive.google.com/uc?export=view&id=1NkaoWYsjIyKYVTiQsxwxXebaAmPShkym)
 
 ### Questão 02: 
 
-Segue o automato
+Segue o automato:
+
+
 ![image](https://drive.google.com/uc?export=view&id=1wn2F2YDM6zE2CvLWen_wxIi6q7wYf2ai)
 
 
