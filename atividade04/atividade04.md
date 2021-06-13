@@ -36,7 +36,12 @@ Segue a derivação, a árvore sintática e a árvore abstrata. Tentei fazer o m
 
 ### Questão 02:
 Segue as duas derivações e a árvore sintática:
+
+### Derivação à esquerda
 ![image](https://drive.google.com/uc?export=view&id=1PjDD4uH8ICEJblS-U2VQdmIJpu907qpV)
+
+### Derivação à direita
 ![image](https://drive.google.com/uc?export=view&id=1aSWzPd4ULKiWWUBz4D4B24tC3FGd0Jlx)
 
+### Árvore sintática
 ![image](https://drive.google.com/uc?export=view&id=1zrNsUpCmfToXPL6R-GXcV2neXcVEnC_e)
