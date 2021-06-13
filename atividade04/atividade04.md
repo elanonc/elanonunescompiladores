@@ -5,8 +5,8 @@
 
 ### Questão 01:
 <p>
-exp -> exp soma termo					                  [exp -> exp soma termo] <br />
-    -> exp soma termo soma termo			          [exp -> exp soma termo] <br />
+exp -> exp soma termo					                  <pre><pre><pre>[exp -> exp soma termo]</pre></pre> <br />
+    -> exp soma termo soma termo			          <pre><pre>[exp -> exp soma termo]</pre></pre> <br />
     -> termo soma termo soma termo			        [exp -> termo] <br />
     -> fator soma termo soma termo			        [termo -> fator] <br />
     -> numero soma termo soma termo			        [fator -> numero] <br />
