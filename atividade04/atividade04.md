@@ -23,13 +23,13 @@ Segue a derivação, a árvore sintática e a árvore abstrata. Tentei fazer o m
 
 ![image](https://drive.google.com/uc?export=view&id=1lhPvQl1Cv7itEL4ZfC3Xj4K_yK2Fayov)
 
-![image](https://drive.google.com/uc?export=view&id=1lhPvQl1Cv7itEL4ZfC3Xj4K_yK2Fayov)
+![image](https://drive.google.com/uc?export=view&id=1ggZA5bBHaNU2qoN0sW-PVeCHpfu_BjGj)
 
 
  ### c. 3 - (4 + 5 * 6)
 ![image](https://drive.google.com/uc?export=view&id=13skYYv5fvaUuGR2vnWuges56nS8BZcqz)
 
-![image](https://drive.google.com/uc?export=view&id=1ggZA5bBHaNU2qoN0sW-PVeCHpfu_BjGj)
+![image](https://drive.google.com/uc?export=view&id=1Qr8IRbTnre4Y8c3HKmSd2BTokzMANwoa)
 
 ![image](https://drive.google.com/uc?export=view&id=1i8Oz4gJqK3Dl0uqgvWD3-1-iWOBruUdr)
 
